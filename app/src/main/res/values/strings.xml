@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fun Flags</string>
+    <string name="flag_1">Austria</string>
+    <string name="flag_2">Poland</string>
+    <string name="flag_3">Italy</string>
+    <string name="flag_4">Columbia</string>
+    <string name="flag_5">Madagascar</string>
+    <string name="flag_6">Thailand</string>
+    <string name="flag_7">Denmark</string>
+    <string name="flag_8">Switzerland</string>
+</resources>
